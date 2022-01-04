@@ -1,0 +1,15 @@
+id,learn,focus,relax,result
+1,Little,Yes,No,Pass
+2,Much,Yes,Yes,Pass
+3,Normal,No,No,Fail
+4,Little,Yes,Yes,Pass
+5,Normal,No,Yes,Fail
+6,Normal,Yes,No,Pass
+7,Little,No,Yes,Fail
+8,Much,No,No,Pass
+9,Much,No,Yes,Fail
+10,Little,No,Yes,Fail
+11,Normal,No,Yes,Fail
+12,Much,No,Yes,Fail
+13,Normal,Yes,Yes,Pass
+14,Much,Yes,Yes,Pass
